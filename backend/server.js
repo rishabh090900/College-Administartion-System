@@ -10,7 +10,7 @@ const Attendence=require('./route/attendanceroute')
 const TT =require('./route/timetableroute')
 var bodyParser = require('body-parser');
 const cors=require('cors')
-mongoose.connect('mongodb+srv://rishabh:Rishabhs@cluster0.2shb9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',() =>console.log('database connected'))
+mongoose.connect('enter mongo db url',() =>console.log('database connected'))
 
 app.use(express.json())
 app.use(cors())
