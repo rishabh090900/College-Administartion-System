@@ -1,0 +1,50 @@
+.sidebar{
+
+background-color:  #1d1d1d;
+color: #adadad;
+width: 270px;
+}
+.card{
+    width:"20%";
+   margin: 100px;
+   padding: -10px;
+   background-color: rgb(0,0,0,0.5);
+   color: aliceblue;
+}
+.cardtitle{
+    width:100%;
+    padding: 15px;;
+    background-color: black;
+    color: white;
+}
+.cardcontent{
+    color:#1d1d1d;
+text-align: left;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight:300;
+
+
+}
+.section{
+width:48%;
+border: 1px solid black;
+margin:10px;
+height:'700px'
+
+
+}
+.box{
+height:50px ;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+color: antiquewhite;
+background-color: #1d1d1d;
+
+
+}
+.navbar{
+
+background-color: black;
+color:antiquewhite;
+
+}
